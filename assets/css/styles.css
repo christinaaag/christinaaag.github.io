@@ -1,0 +1,21 @@
+.bg-color {
+    background-color: #fbf1e4; 
+}
+
+.btn-navbar {
+    color: #6C7C9F;
+    background-color: #ced6e8;
+    border-color: #ced6e8;
+}
+
+.btn:hover {
+    color: #ced6e8;
+    background-color: #6C7C9F;
+    border-color: #6C7C9F;
+}
+
+.active-btn {
+    color: #ced6e8;
+    background-color: #6C7C9F;
+    border-color: #6C7C9F;
+}
